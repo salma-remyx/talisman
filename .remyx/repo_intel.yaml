@@ -1,0 +1,12 @@
+schema_version: 1
+fork: salma-remyx/talisman
+observed_landing_zones: []
+rejected_shapes:
+- shape_tag: null
+  reason_code: null
+  reason_summary: ''
+  observed:
+  - arxiv: 2402.13331v1
+    timestamp: '2026-07-24T15:57:14Z'
+coordination_signals: []
+last_updated: '2026-07-24T15:57:14Z'
